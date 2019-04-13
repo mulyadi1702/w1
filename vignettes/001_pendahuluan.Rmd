@@ -36,6 +36,7 @@ head(mtcars) # melihat 6 baris pertama dari data mtcars, mtcars adalah data bawa
 ```
 
 Jika ingin menjalankan kode R dalam *chunck* tersebut, Anda dapat menggunakan pemintas Ctrl + Enter (menjalankan satu baris kode) atau Ctrl + Shift + Enter (menjalankan semua kode dalam *chunck*). Sekarang buatlah *chunck* baru yang isinya adalah baris kode R berikut: (Petunjuk: Gunakan Ctrl + Alt + I)
+
 ```{r}
 filled.contour(volcano,
                color.palette = terrain.colors, 
